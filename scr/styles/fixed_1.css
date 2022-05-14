@@ -1,0 +1,24 @@
+body {
+    background-color: antiquewhite;
+}
+
+
+
+.header {
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(177, 147, 104);
+    color: aliceblue;
+    position: fixed;
+}
+
+.container {
+    border: 1px solid black;
+    height: 900px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px 15px;
+    background-color: white;
+}
